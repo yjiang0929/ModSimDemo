@@ -1,0 +1,3 @@
+function yep = haddock
+
+end
